@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActionBarSearchView</string>
+    <string-array name="array_country">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Austria</item>
+        <item>Belgium</item>
+        <item>Bahamas</item>
+        <item>Portugal</item>
+        <item>Germany</item>
+    </string-array>
+</resources>
